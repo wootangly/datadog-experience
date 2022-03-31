@@ -31,7 +31,7 @@ It will deploy the required infrastructure in AWS using Terraform.  Using Ansibl
 ### Destroying the Environment
 
 ```bash
-./destroy.sh
+./destroy.sh kubeadm.env
 ```
 
 ### Accessing the cluster
